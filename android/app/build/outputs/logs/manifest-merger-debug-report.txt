@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.react:react-native:0.58.4] /home/louicoder/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/d9d85b43007a359c85ce1c12a76a8350/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/559ef8bdb04586799183692ec6633e99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d1c23cf8876a86b92478a9bc27b8bdfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3d7a1bf1d9aba07b3fcede8a5ade76f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/46a8a0b0a9e0170294c571d9f809d0b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/90e2f331193ee754850a50b7b91908aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/79ca45627352326dc152cc05e6cb895c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6fa5cd49a1db364c49a280a12b3d995a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/82ebbd32e0f02356bd27c2e8df49bfbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/eb42537c5aaa7d379551404bfd57e148/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fc78214b3ca931f2c9cf45bfbef6e156/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/eba5bcecfddca2fc277c290f5a1c8661/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a9f5b2b94aa01ce9c14fbf47698f7ff8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f09ddeabdc0f30c2ae937dec4b23b165/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/630362b9a1ddbc6be8f360eeaac80d00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/363248b15a44d2ef09ab1f869dad0c05/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f795f28a04371f6bd39791134f42af8a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ce2a0a9be0d4cb29863fb10e28dce879/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12d6f4cd71d7c898ca608868775e1f9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1693b02060d1f8097ed0ee7801a7a066/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ec38176e635411f1612a6fca7ad40b7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1d486c1eae8aff3908b1431787c80236/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/50a71c85af18fbaaa582fad75f175f30/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/02b1c4b058de0bbc8cacefeb7ce5fa33/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2e20af87cfa064c56fa5c4d7aee3dd65/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bc474e07411ccf116b9e00b46f40d66b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/134caa6e18cfd20c30014da47d544ba3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/32fcef0563a0201059aa6e4411409c53/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/05ad95695f5348055f9369dae6e4d224/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0de28d814a42caf094061ca38c6032f7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/fe6eca9e8dedfaa71df6b73cd9238da0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c9855fefdd5b15b06f69299bc6614709/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/736e121caea632ed84a1f26c17bfb8f9/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/louicoder/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/bfdba570a8cb1e79313c02330efa8410/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/19da214c0f7379ffee7270e5218139c7/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.4] /home/louicoder/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/d9d85b43007a359c85ce1c12a76a8350/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.4] /home/louicoder/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/d9d85b43007a359c85ce1c12a76a8350/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.4] /home/louicoder/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/d9d85b43007a359c85ce1c12a76a8350/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.4] /home/louicoder/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/d9d85b43007a359c85ce1c12a76a8350/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/363248b15a44d2ef09ab1f869dad0c05/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/363248b15a44d2ef09ab1f869dad0c05/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f795f28a04371f6bd39791134f42af8a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f795f28a04371f6bd39791134f42af8a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/736e121caea632ed84a1f26c17bfb8f9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/736e121caea632ed84a1f26c17bfb8f9/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/louicoder/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/bfdba570a8cb1e79313c02330efa8410/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/louicoder/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/bfdba570a8cb1e79313c02330efa8410/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/363248b15a44d2ef09ab1f869dad0c05/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.rncourse.MainActivity
+ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.58.4] /home/louicoder/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/d9d85b43007a359c85ce1c12a76a8350/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.4] /home/louicoder/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/d9d85b43007a359c85ce1c12a76a8350/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/559ef8bdb04586799183692ec6633e99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/559ef8bdb04586799183692ec6633e99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d1c23cf8876a86b92478a9bc27b8bdfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d1c23cf8876a86b92478a9bc27b8bdfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3d7a1bf1d9aba07b3fcede8a5ade76f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3d7a1bf1d9aba07b3fcede8a5ade76f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/46a8a0b0a9e0170294c571d9f809d0b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/46a8a0b0a9e0170294c571d9f809d0b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/90e2f331193ee754850a50b7b91908aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/90e2f331193ee754850a50b7b91908aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/79ca45627352326dc152cc05e6cb895c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/79ca45627352326dc152cc05e6cb895c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6fa5cd49a1db364c49a280a12b3d995a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6fa5cd49a1db364c49a280a12b3d995a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/82ebbd32e0f02356bd27c2e8df49bfbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/82ebbd32e0f02356bd27c2e8df49bfbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/eb42537c5aaa7d379551404bfd57e148/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/eb42537c5aaa7d379551404bfd57e148/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fc78214b3ca931f2c9cf45bfbef6e156/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fc78214b3ca931f2c9cf45bfbef6e156/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/eba5bcecfddca2fc277c290f5a1c8661/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/eba5bcecfddca2fc277c290f5a1c8661/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a9f5b2b94aa01ce9c14fbf47698f7ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a9f5b2b94aa01ce9c14fbf47698f7ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f09ddeabdc0f30c2ae937dec4b23b165/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f09ddeabdc0f30c2ae937dec4b23b165/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/630362b9a1ddbc6be8f360eeaac80d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/630362b9a1ddbc6be8f360eeaac80d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/363248b15a44d2ef09ab1f869dad0c05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/363248b15a44d2ef09ab1f869dad0c05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f795f28a04371f6bd39791134f42af8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f795f28a04371f6bd39791134f42af8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ce2a0a9be0d4cb29863fb10e28dce879/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ce2a0a9be0d4cb29863fb10e28dce879/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12d6f4cd71d7c898ca608868775e1f9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12d6f4cd71d7c898ca608868775e1f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1693b02060d1f8097ed0ee7801a7a066/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1693b02060d1f8097ed0ee7801a7a066/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ec38176e635411f1612a6fca7ad40b7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ec38176e635411f1612a6fca7ad40b7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1d486c1eae8aff3908b1431787c80236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1d486c1eae8aff3908b1431787c80236/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/50a71c85af18fbaaa582fad75f175f30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/50a71c85af18fbaaa582fad75f175f30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/02b1c4b058de0bbc8cacefeb7ce5fa33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/02b1c4b058de0bbc8cacefeb7ce5fa33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2e20af87cfa064c56fa5c4d7aee3dd65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2e20af87cfa064c56fa5c4d7aee3dd65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bc474e07411ccf116b9e00b46f40d66b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/louicoder/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bc474e07411ccf116b9e00b46f40d66b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/134caa6e18cfd20c30014da47d544ba3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/134caa6e18cfd20c30014da47d544ba3/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/32fcef0563a0201059aa6e4411409c53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/32fcef0563a0201059aa6e4411409c53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/05ad95695f5348055f9369dae6e4d224/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/05ad95695f5348055f9369dae6e4d224/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0de28d814a42caf094061ca38c6032f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0de28d814a42caf094061ca38c6032f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/fe6eca9e8dedfaa71df6b73cd9238da0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/fe6eca9e8dedfaa71df6b73cd9238da0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c9855fefdd5b15b06f69299bc6614709/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c9855fefdd5b15b06f69299bc6614709/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/736e121caea632ed84a1f26c17bfb8f9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/736e121caea632ed84a1f26c17bfb8f9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/19da214c0f7379ffee7270e5218139c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/louicoder/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/19da214c0f7379ffee7270e5218139c7/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/louicoder/Desktop/rncourse/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
